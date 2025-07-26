@@ -111,3 +111,6 @@ with st.expander("클릭하면 펼쳐지는 내용"):
 # 상태 표시 (footer)
 # -----------------------------
 st.caption("© 2025 Seoyeon All rights reserved.")
+
+st.caption("streamlit_app.py 수정2(7/26)")
+
